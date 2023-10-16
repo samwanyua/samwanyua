@@ -1,6 +1,6 @@
- Hi, I’m @samwanyua
- I’m interested in Embedded systems, IoT and Robotics
- I’m currently learning C/C++
+ Hi, I’m @samwanyua.
+ I’m interested in Embedded systems, IoT and Robotics.
+ I’m currently learning C/C++.
 
 
 <!---
