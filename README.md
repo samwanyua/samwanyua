@@ -1,5 +1,5 @@
  Hi, I’m @samwanyua.
- I’m interested in Embedded systems, IoT and Robotics.
+ I’m interested in IoT and CLoud Computing.
  I’m currently learning C/C++.
 
 
