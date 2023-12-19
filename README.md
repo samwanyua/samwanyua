@@ -1,6 +1,6 @@
  Hi, I’m @samwanyua.
  I’m interested in IoT and CLoud Computing.
- I’m currently learning C/C++.
+ I’m currently learning JavaScript.
 
 
 <!---
