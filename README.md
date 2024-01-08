@@ -1,5 +1,5 @@
  Hi, I’m @samwanyua.
- I’m interested in IoT and CLoud Computing.
+ I’m interested in Web Development and CLoud Computing.
  I’m currently learning JavaScript, React.
 
 
