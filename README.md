@@ -1,6 +1,6 @@
  Hi, I’m @samwanyua.
  I’m interested in IoT, Web Development and Cloud Computing.
- I’m currently learning JavaScript, React.
+ I’m currently learning JavaScript, React & Python
 
 
 <!---
