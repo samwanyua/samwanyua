@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Wanyua</h3>
-<p align="center">Software developer based in Nairobi - Kenya, with a unique set of abilities in web development (HTML, CSS, JavaSript, React and Python), in addition graphic design. Competent at transforming creative ideas into viable and eye-catching digital solutions and with a history of producing top-notch work with a solid understanding of programming and an eye for aesthetic design.</p>
+<p align="left">Software developer based in Nairobi - Kenya, with a unique set of abilities in web development (HTML, CSS, JavaSript, React and Python), in addition graphic design. Competent at transforming creative ideas into viable and eye-catching digital solutions and with a history of producing top-notch work with a solid understanding of programming and an eye for aesthetic design.</p>
 
 
 
