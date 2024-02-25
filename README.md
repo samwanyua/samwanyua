@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wanyua</h1>
 <h3 align="center">Software developer based in Nairobi - Kenya, with a unique set of abilities in web development (HTML, CSS, JavaSript, React and Python), in addition graphic design. Competent at transforming creative ideas into viable and eye-catching digital solutions and with a history of producing top-notch work with a solid understanding of programming and an eye for aesthetic design.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samwanyua" alt="samwanyua" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
