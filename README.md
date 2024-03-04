@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Wanyua</h1>
-<h4 align="left">Software developer based in Nairobi - Kenya, with a unique set of abilities in web development (HTML, CSS, JavaSript, React and Python), in addition graphic design. Competent at transforming creative ideas into viable and eye-catching digital solutions and with a history of producing top-notch work with a solid understanding of programming and an eye for aesthetic design.</h4>
+<h5 align="left">I'm a Software developer based in Nairobi, Kenya. Proficient in  C, and C++,Python, JavaScript, HTML5, CSS, Tailwind, React, my expertise spans both front-end and back-end development. I'm particularly interested in low-level programming and enjoy working on IoT projects. Committed to staying updated with industry trends, I thrive on solving complex problems and delivering top-notch software solutions.</h5>
 
 
 
