@@ -5,10 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/wanyua samuel](https://www.linkedin.com/in/wanyua-samuel-a98434215/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wanyua samuel" height="30" width="40" /></a>
-<a href="[https://www.behance.net/sam wanyua](https://www.behance.net/wanyuasam)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sam wanyua" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/sam_wanyua](https://leetcode.com/samwanyua/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sam_wanyua" height="30" width="40" /></a>
-   <a href="[https://www.hackerearth.com/@samexample8](https://www.hackerrank.com/profile/samexample8)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@samexample8" height="30" width="40" /></a>
+<a href="https://linkedin.com//in/wanyua-samuel-a98434215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wanyua samuel" height="30" width="40" /></a>
+<a href="https://www.behance.net/wanyuasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sam wanyua" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/samwanyua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sam_wanyua" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/samexample8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@samexample8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
