@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Wanyua</h1>
-<h5 align="left">I'm a Software developer based in Nairobi, Kenya. Proficient in  C, and C++,Python, JavaScript, HTML5, CSS, Tailwind, React, my expertise spans both front-end and back-end development. I'm particularly interested in low-level programming and enjoy working on IoT projects. Committed to staying updated with industry trends, I thrive on solving complex problems and delivering top-notch software solutions.</h5>
+<h5 align="left">I'm a Software developer based in Nairobi, Kenya. Proficient in  C, and C++, Java, Python, JavaScript, HTML5, CSS, Tailwind, React, my expertise spans both front-end and back-end development. I'm particularly interested in low-level programming and enjoy working on IoT projects. Committed to staying updated with industry trends, I thrive on solving complex problems and delivering top-notch software solutions.</h5>
 
 
 
@@ -33,5 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&show_icons=true&locale=en&layout=compact" alt="samwanyua" /></p>
 -->
 
-[![Sam Wanyua's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&hide=html,css&theme=algolia&show_icons=true)](https://github.com/samwanyua)
+[![Sam Wanyua's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&hide=html,css&theme=nightowl&show_icons=true)](https://github.com/samwanyua)
 
