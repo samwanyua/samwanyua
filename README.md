@@ -28,6 +28,10 @@
             </p>
 
 
-
+<!--
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&show_icons=true&locale=en&layout=compact" alt="samwanyua" /></p>
+-->
+
+[![Sam Wanyua's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&hide=html,css&theme=algolia&show_icons=true)](https://github.com/samwanyua)
+
