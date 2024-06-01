@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Wanyua</h1>
-<h5 align="left">I'm a Software Developer based in Nairobi, Kenya, with a strong focus on Java, Spring Boot, and microservices architecture. Proficient in building scalable and efficient back-end systems, I excel in designing and implementing RESTful APIs and enterprise-level applications. My expertise also includes database management using SQL, MySQL, and PostgreSQL. Committed to staying updated with industry trends, I thrive on solving complex problems and delivering top-notch software solutions in dynamic, fast-paced environments.</h5>
+<h5 alig![Sam Wanyua's GitHub stats](https://github-readme-stats.vercel.app/api?username=samwanyua&hide=html,javascript,css&theme=nightowl&show_icons=true)
+n="left">I'm a Software Developer based in Nairobi, Kenya, with a strong focus on Java, Spring Boot, and microservices architecture. Proficient in building scalable and efficient back-end systems, I excel in designing and implementing RESTful APIs and enterprise-level applications. My expertise also includes database management using SQL, MySQL, and PostgreSQL. Committed to staying updated with industry trends, I thrive on solving complex problems and delivering top-notch software solutions in dynamic, fast-paced environments.</h5>
 
 
 
@@ -38,12 +39,10 @@
             
 
 
-<!--
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&show_icons=true&locale=en&layout=compact" alt="samwanyua" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&show_icons=true&locale=en&theme=nightowl&hide=javascript,css,html&layout=compact" alt="samwanyua" /></p>
 
--->
-[![Sam Wanyua's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&hide=html,javascript,css&theme=nightowl&show_icons=true)](https://github.com/samwanyua)
+
 
 
 
