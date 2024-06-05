@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Wanyua</h1>
 <h5 alig![Sam Wanyua's GitHub stats](https://github-readme-stats.vercel.app/api?username=samwanyua&hide=html,javascript,css&theme=nightowl&show_icons=true)
-n="left">I'm a Software Developer based in Nairobi, Kenya, with a strong focus on Java, Spring Boot, and microservices architecture. Proficient in building scalable and efficient back-end systems, I excel in designing and implementing RESTful APIs and enterprise-level applications. My expertise also includes database management using SQL, MySQL, and PostgreSQL. Committed to staying updated with industry trends, I thrive on solving complex problems and delivering top-notch software solutions in dynamic, fast-paced environments.</h5>
+n="left">I'm a Software Developer based in Nairobi, Kenya, with a strong focus on Java, Spring Boot, and microservices architecture. Proficient in building scalable and efficient back-end systems, I excel in designing and implementing RESTful APIs and enterprise-level applications. My expertise also includes database management using SQL, MySQL, MongoDB and PostgreSQL. Committed to staying updated with industry trends, I thrive on solving complex problems and delivering top-notch software solutions in dynamic, fast-paced environments.</h5>
 
 
 
@@ -35,6 +35,7 @@ n="left">I'm a Software Developer based in Nairobi, Kenya, with a strong focus o
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
       </p>
             
 
