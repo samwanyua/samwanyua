@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Wanyua</h1>
 <h5 alig![Sam Wanyua's GitHub stats](https://github-readme-stats.vercel.app/api?username=samwanyua&hide=html,javascript,css&theme=nightowl&show_icons=true)
-n="left">I'm a Software Developer based in Nairobi, Kenya, with a strong focus on Java, Spring Boot, and microservices architecture. Proficient in building scalable and efficient back-end systems, I excel in designing and implementing RESTful APIs and enterprise-level applications. My expertise also includes database management using SQL, MySQL, MongoDB and PostgreSQL. Committed to staying updated with industry trends, I thrive on solving complex problems and delivering top-notch software solutions in dynamic, fast-paced environments.</h5>
+n="left">I'm a Software Developer based in Nairobi, Kenya, with expertise in Java, JavaScript, Python, C/C++, and Node.js, as well as database management with MySQL, PostgreSQL, and MongoDB. I excel in using frameworks such as Spring Boot, React, Flask, and Tailwind.</h5>
 
 
 
