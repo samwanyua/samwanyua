@@ -42,7 +42,8 @@ n="left">I'm a Software Developer based in Nairobi, Kenya, with expertise in Jav
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&show_icons=true&locale=en&theme=nightowl&hide=javascript,css,html&layout=compact" alt="samwanyua" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&show_icons=true&locale=en&theme=nightowl&hide=javascript,css,html&layout=compact" alt="samwanyua" /></p> -->
+
 
 
 
