@@ -21,7 +21,7 @@ n="left">Data enthusiast skilled in analysis, visualization, and machine learnin
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwanyua&show_icons=true&locale=en&theme=nightowl&hide=javascript,css,html,c,c%2B%2B,kotlin&layout=compact" alt="samwanyua" /></p>
+
 
 
 
