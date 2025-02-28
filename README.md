@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Wanyua</h1>
 <h5 alig![Sam Wanyua's GitHub stats](https://github-readme-stats.vercel.app/api?username=samwanyua&hide=html,javascript,css&theme=nightowl&show_icons=true)
-n="left">I'm Wanyua, passionate about deep learning, machine learning, and transforming data into actionable insights.</h5>
+n="left">I'm Wanyua, passionate about Deep Dearning, Machine Learning, and transforming data into actionable insights.</h5>
 
 
 
