@@ -1,6 +1,32 @@
-<h1 align="left">Hi 👋, I'm Wanyua</h1>
-<h5 alig![Sam Wanyua's GitHub stats](https://github-readme-stats.vercel.app/api?username=samwanyua&hide=html,javascript,css&theme=nightowl&show_icons=true)
-n="left">I'm Wanyua, passionate about Deep Dearning, Machine Learning, and transforming data into actionable insights.</h5>
+<h1 align="left">Hello, I'm Wanyua</h1>
+
+<h3 align="left"> Data Engineer | Turning pipelines into insights</h3>
+
+I'm **Samuel Wanyua**, a data enthusiast passionate about building **scalable, real-time and batch data pipelines** that turn raw data into valuable insights. I focus on designing and deploying batch and streaming data pipelines that power real-time insights and automation.
+
+---
+
+### 🎯 Focus Areas
+
+- **Data Engineering**: ETL/ELT pipelines, real-time & batch processing, orchestration, data lakes, and warehousing
+- **Streaming**: Real-time ingestion and processing with Apache Kafka & Spark Structured Streaming
+- **Scheduling & Automation**: Apache Airflow, CI/CD with GitHub Actions
+- **Data Science & ML**: Python, pandas, NumPy, scikit-learn, TensorFlow, model deployment (on Docker or Flask)
+- **Data Modeling**: Star/snowflake schemas, modular pipeline design with dbt, version-controlled transformations
+- **Storage & Warehousing**: PostgreSQL, Google BigQuery, Google Cloud Storage, Data Lakehouse architecture
+- **Visualization & BI**: Looker Studio, Kibana, Power BI, Streamlit (for simple dashboarding)
+- **Cloud & DevOps**: Docker, GitHub Actions, GCP (BigQuery, Storage, Compute), Linux CLI, Terraform (learning)
+
+
+---
+
+### 🔧 Currently Working On:
+
+-  A **real-time Nairobi real estate data pipeline** for Nairobi property listings (Kafka + Airflow + Spark + Postgres + email notifications)
+-  Expanding into vehicle listings: scrapers, streaming ingestion, and price trend modeling
+-  Experimenting with **BigQuery + dbt** for scalable analytics in the cloud
+
+---
 
 
 
