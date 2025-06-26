@@ -11,7 +11,7 @@ I'm **Samuel Wanyua**, a data enthusiast passionate about building **scalable, r
 - **Data Engineering**: ETL/ELT pipelines, real-time & batch processing, orchestration, data lakes, and warehousing
 - **Streaming**: Real-time ingestion and processing with Apache Kafka & Spark Structured Streaming
 - **Scheduling & Automation**: Apache Airflow, CI/CD with GitHub Actions
-- **Data Science & ML**: Python, pandas, NumPy, scikit-learn, TensorFlow, model deployment (on Docker or Flask)
+- **Data Science & ML**: Python, pandas, NumPy, scikit-learn, TensorFlow
 - **Data Modeling**: Star/snowflake schemas, modular pipeline design with dbt, version-controlled transformations
 - **Storage & Warehousing**: PostgreSQL, Google BigQuery, Google Cloud Storage, Data Lakehouse architecture
 - **Visualization & BI**: Looker Studio, Kibana, Power BI, Streamlit (for simple dashboarding)
