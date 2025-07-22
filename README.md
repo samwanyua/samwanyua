@@ -13,7 +13,7 @@ I'm **Samuel Wanyua**, a data scientist with a passion for extracting insights f
 - **Computer Vision**: Image classification, object detection, segmentation using OpenCV, PyTorch, and TensorFlow  
 - **Natural Language Processing (NLP)**: Text preprocessing, NER with spaCy, sequence modeling with RNNs, Transformers (Hugging Face), LangChain for RAG pipelines  
 - **Data Analysis & Experimentation**: Statistical testing, A/B testing, data wrangling with pandas, NumPy, and SQL  
-- **Data Engineering (supporting)**: Building ETL/ELT pipelines using Airflow, Spark, Kafka, and Docker  
+- **Data Engineering**: Building ETL/ELT pipelines using Airflow, Spark, Kafka, and Docker  
 - **Real-Time Intelligence**: Streaming analytics using Spark Structured Streaming, Kafka, and PostgreSQL  
 - **Visualization & BI**: Insightful dashboards with Looker Studio, Power BI, Matplotlib, and Seaborn  
 - **Deployment & DevOps**: Model deployment via Streamlit/FastAPI, CI/CD with GitHub Actions, Dockerized workflows  
