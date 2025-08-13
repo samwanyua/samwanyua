@@ -2,7 +2,7 @@
 
 <h3 align="left"> Data Scientist | Turning data into action and intelligence </h3>
 
-I'm **Samuel Wanyua**, a data scientist with a passion for extracting insights from complex data and building intelligent systems that solve real-world problems. I specialize in machine learning, statistical modeling, and data storytelling — with a strong foundation in data engineering that enables scalable, production-ready workflows.
+I'm **Samuel Wanyua**, a data scientist with a passion for extracting insights from complex data and building intelligent systems that solve real-world problems. I specialize in machine learning, deep learning, NLP, Model fine-tuning, data analysis and data storytelling — with a strong foundation in data engineering that enables scalable, production-ready workflows.
 
 ---
 
