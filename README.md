@@ -17,7 +17,7 @@ I'm **Samuel Wanyua**, a data scientist with a passion for extracting insights f
 - **Real-Time Intelligence**: Streaming analytics using Spark Structured Streaming, Kafka, and PostgreSQL  
 - **Visualization & BI**: Insightful dashboards with Looker Studio, Power BI, Matplotlib, and Seaborn  
 - **Deployment & DevOps**: Model deployment via Streamlit/FastAPI, CI/CD with GitHub Actions, Dockerized workflows  
-- **Cloud**: Google Cloud Platform (BigQuery, Storage), AWS (learning)
+- **Cloud**: Google Cloud Platform, AWS
 ---
 
 
