@@ -8,7 +8,7 @@ I'm **Samuel Wanyua**, a data scientist with a passion for extracting insights f
 
 ### Focus Areas
 
-- **Machine Learning & AI**: Supervised/unsupervised learning, model training and evaluation, MLOps, model interpretability  
+- **Machine Learning & AI**: Supervised/unsupervised learning, model training and evaluation, fine-tuning, MLOps, model interpretability  
 - **Deep Learning**: Neural networks with TensorFlow and PyTorch, CNNs for image tasks, RNNs/LSTMs for sequence modeling  
 - **Computer Vision**: Image classification, object detection, segmentation using OpenCV, PyTorch, and TensorFlow  
 - **Natural Language Processing (NLP)**: Text preprocessing, NER with spaCy, sequence modeling with RNNs, Transformers (Hugging Face), LangChain for RAG pipelines  
