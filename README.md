@@ -1,24 +1,31 @@
 <h1 align="left">Hello, I'm Wanyua</h1>
 
-<h3 align="left"> Data Scientist | Turning data into action and intelligence </h3>
+<h3 align="left"> AI Engineer & Data Scientist | Predictive Modeling • LLM Fine-Tuning • Applied Deep Learning • NLP </h3>
 
-I'm **Samuel Wanyua**, a data scientist with a passion for extracting insights from complex data and building intelligent systems that solve real-world problems. I specialize in machine learning, deep learning, NLP, Model fine-tuning, data analysis and data storytelling — with a strong foundation in data engineering that enables scalable, production-ready workflows.
+I'm **Samuel Wanyua**, an **AI Engineer** & **Data Scientist** passionate about building intelligent systems that combine data-driven insights with robust engineering. I specialize in machine learning, deep learning, NLP, and computer vision — with a solid foundation in data engineering and deployment that enables me to turn research ideas into scalable, production-ready solutions.
 
 ---
 
-### Focus Areas
+## Focus Areas
 
-- **Machine Learning & AI**: Supervised/unsupervised learning, model training and evaluation, fine-tuning, MLOps, model interpretability  
-- **Deep Learning**: Neural networks with TensorFlow and PyTorch, CNNs for image tasks, RNNs/LSTMs for sequence modeling  
-- **Computer Vision**: Image classification, object detection, segmentation using OpenCV, PyTorch, and TensorFlow  
-- **Natural Language Processing (NLP)**: Text preprocessing, NER with spaCy, sequence modeling with RNNs, Transformers (Hugging Face), LangChain for RAG pipelines  
-- **Data Analysis & Experimentation**: Statistical testing, A/B testing, data wrangling with pandas, NumPy, and SQL  
-- **Data Engineering**: Building ETL/ELT pipelines using Airflow, Spark, Kafka, and Docker  
-- **Real-Time Intelligence**: Streaming analytics using Spark Structured Streaming, Kafka, and PostgreSQL  
-- **Visualization & BI**: Insightful dashboards with Looker Studio, Power BI, Matplotlib, and Seaborn  
-- **Deployment & DevOps**: Model deployment via Streamlit/FastAPI, CI/CD with GitHub Actions, Dockerized workflows  
-- **Cloud**: Google Cloud Platform, AWS
----
+- **Machine Learning & AI**: Predictive modeling, supervised/unsupervised learning, model training, evaluation, fine-tuning, and interpretability  
+
+- **Deep Learning**: Neural networks with PyTorch/TensorFlow, CNNs for vision tasks, RNNs/Transformers for sequence modeling  
+
+- **Natural Language Processing (NLP)**: Text preprocessing, NER, sequence modeling, fine-tuning Transformers (Hugging Face), Whisper ASR, LangChain for RAG pipelines  
+
+- **Computer Vision**: Image classification, detection, segmentation, and video understanding with PyTorch, TensorFlow, and OpenCV  
+
+- **Data Engineering**: ETL/ELT pipelines with Airflow, Spark, Docker, and PostgreSQL; automated data collection and processing  
+
+- **Analysis & Experimentation**: Statistical analysis, A/B testing, exploratory data analysis, and feature engineering with pandas, NumPy, SQL  
+
+- **Visualization & BI**: Dashboards and reporting with Power BI, Looker Studio, Plotly, and Streamlit  
+
+- **Deployment**: Serving ML models with FastAPI/Streamlit, containerized workflows with Docker, CI/CD with GitHub Actions  
+
+- **Cloud Platforms**: Google Cloud Platform (GCP), AWS  
+
 
 
 
