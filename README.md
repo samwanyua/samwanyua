@@ -6,29 +6,6 @@ I'm **Samuel Wanyua**, **Data Engineer** & AI Engineer with a focus on building 
 
 ---
 
-## Focus Areas
-
-- **Machine Learning & AI**: Predictive modeling, supervised/unsupervised learning, model training, evaluation, fine-tuning, and interpretability  
-
-- **Deep Learning**: Neural networks with PyTorch/TensorFlow, CNNs for vision tasks, RNNs/Transformers for sequence modeling  
-
-- **Natural Language Processing (NLP)**: Text preprocessing, NER, sequence modeling, fine-tuning Transformers (Hugging Face), Whisper ASR, LangChain for RAG pipelines  
-
-- **Computer Vision**: Image classification, detection, segmentation, and video understanding with PyTorch, TensorFlow, and OpenCV  
-
-- **Data Engineering**: ETL/ELT pipelines with Airflow, Spark, Docker, and PostgreSQL; automated data collection and processing  
-
-- **Analysis & Experimentation**: Statistical analysis, A/B testing, exploratory data analysis, and feature engineering with pandas, NumPy, SQL  
-
-- **Visualization & BI**: Dashboards and reporting with Power BI, Looker Studio, Plotly, and Streamlit  
-
-- **Deployment**: Serving ML models with FastAPI/Streamlit, containerized workflows with Docker, CI/CD with GitHub Actions  
-
-- **Cloud Platforms**: Google Cloud Platform (GCP), AWS  
-
-
-
-
 ###  Currently Working On:
 
 -  A **real-time Nairobi real estate data pipeline** for Nairobi property listings (Kafka + Airflow + Spark + Postgres + email notifications)
