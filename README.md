@@ -2,7 +2,7 @@
 
 <h3 align="left"> AI Engineer & Data Scientist | Predictive Modeling • LLM Fine-Tuning • Applied Deep Learning • NLP </h3>
 
-I'm **Samuel Wanyua**, an **AI Engineer** & **Data Scientist** passionate about building intelligent systems that combine data-driven insights with robust engineering. I specialize in machine learning, deep learning, NLP, and computer vision — with a solid foundation in data engineering and deployment that enables me to turn research ideas into scalable, production-ready solutions.
+I'm **Samuel Wanyua**, **Data Engineer** & AI Engineer with a focus on building scalable, real-time data pipelines. Experienced in ETL/ELT, data warehousing, and cloud platforms using tools like Apache Airflow, Spark, Kafka, and Docker. Passionate about automating data workflows and leveraging data to solve complex problems.
 
 ---
 
