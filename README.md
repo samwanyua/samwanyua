@@ -6,13 +6,7 @@ I'm **Samuel Wanyua**, **Data Engineer** & AI Engineer with a focus on building 
 
 ---
 
-###  Currently Working On:
 
--  A **real-time Nairobi real estate data pipeline** for Nairobi property listings (Kafka + Airflow + Spark + Postgres + email notifications)
--  Expanding into vehicle listings: scrapers, streaming ingestion, and price trend modeling
--  Experimenting with **BigQuery + dbt** for scalable analytics in the cloud
-
----
 
 
 
