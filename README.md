@@ -1,8 +1,8 @@
 <h1 align="left">Hello, I'm Wanyua</h1>
 
-<h3 align="left"> Data Engineer — AI Engineer — Real-Time Data Pipelines — ETL — ELT — Cloud Platforms — Data Modeling </h3>
+<h3 align="left"> Analytics Engineer — Data Analyst — Data Storyteller — ETL/ELT Pipelines - Business Intelligence </h3>
 
-I'm **Samuel Wanyua**, **Data Engineer** & AI Engineer with a focus on building scalable, real-time data pipelines. Experienced in ETL/ELT, data warehousing, and cloud platforms using tools like Apache Airflow, Spark, Kafka, and Docker. Passionate about automating data workflows and leveraging data to solve complex problems.
+I'm **Samuel Wanyua**, **Analytics Engineer** and **Data Analyst** skilled in building scalable, automated data pipelines and transforming raw data into actionable insights. Experienced in ETL/ELT, data modeling, and BI reporting using tools like Airflow, dbt, Spark, and Power BI, with a passion for enabling data-driven decision-making.
 
 ---
 
