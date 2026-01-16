@@ -1,8 +1,8 @@
 <h1 align="left">Hello, I'm Wanyua</h1>
 
-<h3 align="left"> Analytics Engineer — Data Analyst — Data Storyteller — ETL/ELT Pipelines - Business Intelligence </h3>
+<h3 align="left"> AI Engineer — Data Scientist — Data Storyteller - Business Intelligence </h3>
 
-I'm **Samuel Wanyua**, **Analytics Engineer** and **Data Analyst** skilled in building scalable, automated data pipelines and transforming raw data into actionable insights. Experienced in ETL/ELT, data modeling, and BI reporting using tools like Airflow, dbt, Spark, and Power BI, with a passion for enabling data-driven decision-making.
+I'm **Samuel Wanyua**, Data Scientist and AI Engineer focused on ASR, NLP, and end-to-end machine learning systems. I build and deploy real-world AI solutions—ranging from speech models to predictive analytics and RAG pipelines—powered by scalable data pipelines and modern MLOps.
 
 ---
 
